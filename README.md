@@ -15,3 +15,11 @@ Figure 2: _Sample Game Screen_
 ![image](https://github.com/dogaerke/Obstacle-Game/assets/66387809/33186f8d-d2da-45bb-b730-384dcf129623)
 Figure 3: _Sample Game Screen_
 
+
+
+https://github.com/dogaerke/Obstacle-Game/assets/66387809/092f26bd-1081-480b-b5c5-32ea67f12c0e
+
+
+
+
+
